@@ -1,0 +1,12 @@
+D:\repos\MyRepos\UnitTestExample\JobApplicant\bin\Debug\net6.0\JobApplicant.deps.json
+D:\repos\MyRepos\UnitTestExample\JobApplicant\bin\Debug\net6.0\JobApplicant.dll
+D:\repos\MyRepos\UnitTestExample\JobApplicant\bin\Debug\net6.0\JobApplicant.pdb
+D:\repos\MyRepos\UnitTestExample\JobApplicant\obj\Debug\net6.0\JobApplicant.csproj.AssemblyReference.cache
+D:\repos\MyRepos\UnitTestExample\JobApplicant\obj\Debug\net6.0\JobApplicant.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\MyRepos\UnitTestExample\JobApplicant\obj\Debug\net6.0\JobApplicant.AssemblyInfoInputs.cache
+D:\repos\MyRepos\UnitTestExample\JobApplicant\obj\Debug\net6.0\JobApplicant.AssemblyInfo.cs
+D:\repos\MyRepos\UnitTestExample\JobApplicant\obj\Debug\net6.0\JobApplicant.csproj.CoreCompileInputs.cache
+D:\repos\MyRepos\UnitTestExample\JobApplicant\obj\Debug\net6.0\JobApplicant.dll
+D:\repos\MyRepos\UnitTestExample\JobApplicant\obj\Debug\net6.0\refint\JobApplicant.dll
+D:\repos\MyRepos\UnitTestExample\JobApplicant\obj\Debug\net6.0\JobApplicant.pdb
+D:\repos\MyRepos\UnitTestExample\JobApplicant\obj\Debug\net6.0\ref\JobApplicant.dll

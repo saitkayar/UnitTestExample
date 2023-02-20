@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6IAuhdOs4WybOajCVzmD+pGU14pOEUVIwc5uMkLarRWg7d1wOUV0y02lq3vE8vFaVtBauAgRL6e7NAfz0FjmvA==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\MyRepos\\UnitTestExample\\JobApplicant\\JobApplicant.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://tfs.netix.com.tr:8080/tfs/NetixCollection/_packaging/NetixNuget/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
